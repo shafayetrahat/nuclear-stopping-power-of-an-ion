@@ -13,4 +13,4 @@ ion-matter interactions while highlighting limitations in empirical models.
 
 # Relative difference in nuclear Stopping power of H --> Si and Si --> Au
 
-https://github.com/logout
+![Nuclear_Stopping_Power_Comparison](https://github.com/user-attachments/assets/706ef16c-4476-471f-be8d-16d22140ae7d)
