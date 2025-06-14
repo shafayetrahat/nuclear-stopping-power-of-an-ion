@@ -9,3 +9,8 @@ to solve the scattering integrals. Results were compared between the ZBL and uni
 good agreement at intermediate energies but deviations at low and high energies due to approximations
 in the universal formula. This study demonstrates the effectiveness of numerical methods in simulating
 ion-matter interactions while highlighting limitations in empirical models.
+
+
+# Relative difference in nuclear Stopping power of H --> Si and Si --> Au
+
+https://github.com/logout
